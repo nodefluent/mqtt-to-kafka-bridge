@@ -1,6 +1,6 @@
 {
   "name": "mqtt-to-kafka-bridge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Move messages from MQTT Brokers to Apache Kafka clusters easily",
   "author": "Christian Froehlingsdorf <chris@5cf.de>",
   "scripts": {
