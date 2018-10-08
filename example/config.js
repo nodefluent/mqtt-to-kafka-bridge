@@ -80,7 +80,7 @@ module.exports = {
             topic,
             message, // you can pass an object, will be turned into a string
             key, // default uuid.v4
-            partition, // default null
+            partition: null, // default null
         });
     },
 
