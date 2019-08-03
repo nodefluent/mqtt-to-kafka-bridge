@@ -5,6 +5,7 @@ module.exports = {
     // mqtt connection options
     mqtt: { // # see https://github.com/mqttjs/MQTT.js#mqttclientstreambuilder-options
         url: null,
+        baseTopic: "from/#",
         options: {
             clientId: "example-client",
             username: "example",
